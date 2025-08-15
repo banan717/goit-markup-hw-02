@@ -69,6 +69,7 @@ ul{
 .benefits-heading{
     font-size: 36px;
     letter-spacing: 0.02em;
+    line-height: 1.2;
     color: #2e2f42;
     line-height: 1.2;
     text-align: center;
@@ -109,6 +110,15 @@ ul{
 
 .team{
     background-color: #F4F4FD;
+}
+
+.team-heading{
+    font-size: 36px;
+    letter-spacing: 0.02em;
+    line-height: 1.11;
+    color: #2e2f42;
+    text-align: center;
+    text-transform: capitalize;
 }
 
 .team-item{
