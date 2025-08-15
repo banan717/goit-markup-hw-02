@@ -70,7 +70,7 @@ ul{
     font-size: 36px;
     letter-spacing: 0.02em;
     color: #2e2f42;
-    line-height: 1.11;
+    line-height: 1.2;
     text-align: center;
     text-transform: capitalize;
 }
@@ -175,4 +175,6 @@ ul{
 
 .footer-text{
     color: #F4F4FD;
+    letter-spacing: 0.02em;
+    line-height: 1.5;
 }
