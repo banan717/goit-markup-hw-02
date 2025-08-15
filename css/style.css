@@ -116,7 +116,7 @@ ul{
     line-height: 1.11;
     color: #2e2f42;
     text-align: center;
-
+    text-transform: capitalize
 }
 
 .team-item{
