@@ -3,7 +3,7 @@ html, body{
     color:#434455;
     background-color: #FFFFFF;  
 }
-.logo-header{
+a{
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
@@ -13,46 +13,35 @@ html, body{
     color: #4d5ae5;
     text-decoration: none;
 }
-.logo-span-header{
+span{
     color:#2e2f42;
 }
 
-.nav-link{
+a{
     font-weight: 500;
     line-height: 1.5;
     font-size: 16px;
     letter-spacing: 0.02em;
     color:#2e2f42;
-}
-
-.nav-link:hover,
-.nav-link:focus{
-    color:#404bbf;
-}
-
-.contact-info{
-    font-style: normal;
-}
-
-.contact-link{
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-    color:#434455;
     text-decoration: none;
 }
 
-.contact-link:hover,
-.contact-link:focus{
+a:hover,
+a:focus{
     color:#404bbf;
 }
 
-.hero{
+address{
+    font-style: normal;
+}
+
+
+.section{
     background-color:#2e2f42;
 }
 
-.hero-heading{
-    font-weight: bold;
+h1{
+    font-weight: 700;
     font-size: 56px;
     letter-spacing: 0.02em;
     line-height: 1.07;
@@ -60,7 +49,7 @@ html, body{
     color: #ffffff;
 }
 
-.benefits-heading{
+h2{
     font-size: 36px;
     letter-spacing: 0.02em;
     color: #2e2f42;
@@ -69,25 +58,7 @@ html, body{
     text-transform: capitalize;
 }
 
-
-
-
-
-
-.title-span-footer{
-    color: #f4f4fd;
-}
-
-.title-h2{
-    font-size: 36px;
-    letter-spacing: 0.02em;
-    color: #2e2f42;
-    line-height: 1.11;
-    text-align: center;
-    text-transform: capitalize;
-}
-
-.hero-button{
+button{
     font-weight: medium;
     font-size: 16px;
     line-height: 24px;
@@ -99,12 +70,12 @@ html, body{
     cursor: pointer;
 }
 
-.hero-button:hover,
-.hero-button:focus{
+button:hover,
+button:focus{
     background-color: #404BBF;
 }
 
-.benefits-subheading{
+h3{
     font-weight: medium;
     font-size: 20px;
     letter-spacing: 0.02em;
@@ -112,7 +83,7 @@ html, body{
     color: #2e2f42;
 }
 
-.benefits-text{
+p{
     font-weight: medium;
     font-size: 16px;
     letter-spacing: 0.02em;
@@ -143,7 +114,12 @@ html, body{
 }
 
 .portfolio-heading{
-
+    font-size: 36px;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+    line-height: 1.11;
+    text-align: center;
+    text-transform: capitalize;
 }
 
 .portfolio-title{
