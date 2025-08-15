@@ -11,6 +11,7 @@ html, body{
     line-height: 1.17;
     text-transform: uppercase;
     color: #4d5ae5;
+    text-decoration: none;
 }
 .logo-span-header{
     color:#2e2f42;
@@ -38,6 +39,7 @@ html, body{
     line-height: 1.5;
     letter-spacing: 0.02em;
     color:#434455;
+    text-decoration: none;
 }
 
 .contact-link:hover,
@@ -171,6 +173,7 @@ html, body{
     line-height: 1.17;
     text-transform: uppercase;
     color: #4d5ae5;
+    text-decoration: none;
 }
 
 .logo-span-footer{
